@@ -75,9 +75,9 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'migtraining.mysql.database.azure.com',
-	'username' => 'prasad',
-	'password' => 'Welcome2ibm',
+	'hostname' => 'migratingdb.cuedeakje2os.us-west-2.rds.amazonaws.com',
+	'username' => 'admin',
+	'password' => 'Password1',
 	'database' => 'college_mgmt',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
